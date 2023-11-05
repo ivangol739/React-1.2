@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/d742el1jfy9gdoxu?svg=true)](https://ci.appveyor.com/project/ivangol739/react-1-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/89okhura9c57yv7u?svg=true)](https://ci.appveyor.com/project/ivangol739/react-1-2)
 
 
 Страница интернет-магазина
