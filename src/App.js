@@ -13,18 +13,16 @@ const item = {
 
 function App() {
   return (
-    <div className="App">
-      <div className="container">
-        <div className="background-element">
-        </div>
-        <div className="highlight-window">
-          <div className='highlight-overlay'></div>
-        </div>
-        <div className="window">
-          <ShopItemClass item={new ItemModel(item)} />
-        </div>
-      </div>
+    <div className="container">
+    <div className="background-element">
     </div>
+    <div className="highlight-window">
+      <div className="highlight-overlay"></div>
+    </div>
+    <div className="window">
+      <ShopItemClass item={new ItemModel(item)} />
+    </div>
+  </div>
   );
 }
 
